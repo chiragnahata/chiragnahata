@@ -169,11 +169,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragnahata&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=70ph7fb9dd2flamitr2wh8udk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -188,6 +183,5 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chiragnahata&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
