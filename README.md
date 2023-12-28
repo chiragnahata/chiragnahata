@@ -6,23 +6,28 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Chirag+Nahata)](https://git.io/typing-svg)
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Chirag Nahata, a full-time full-stack developer 👨‍💻</div>  
-  
 
-<br/>  
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Innovative+coder%2C+lifelong+learner"
+</div>
 
+#### <div align="center">Hello there! 👋 I'm a versatile developer on a perpetual journey of coding exploration. From crafting robust software solutions to diving into the latest technologies, my GitHub is a canvas reflecting my passion for innovation. Dive into my repositories to witness a blend of creativity, efficiency, and a commitment to lifelong learning. Join me in the exciting world of code, where every commit tells a story of growth and collaboration. Happy coding!</div>  
+
+<div align="center"><img src="https://img.shields.io/github/followers/chiragnahata?label=Followers&style=social(https://github.com/chiragnahata)" align="center" />
+<img src="https://komarev.com/ghpvc/?username=chiragnahata&label=Stalked%20by&color=02f28a&style=flat" alt="chiragnahata" align="center" />
+<img src="https://komarev.com/ghpvc/?username=chiragnahata&&style=flat-square" align="center" />
+</div>
+
+----
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -59,8 +64,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -95,8 +98,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -134,6 +135,7 @@
 
 <br/>  
 
+----
 
 ## Connect with me  
 <div align="center">
@@ -163,25 +165,23 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chiragnahata&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=chiragnahata&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
+## Github Stats  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chiragnahata&show_icons=true&count_private=true&hide_border=false" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragnahata&show_icons=true&hide_border=false" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragnahata&theme=github" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiragnahata&theme=github" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragnahata&theme=github" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiragnahata&theme=github&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragnahata&theme=github" />
+</div>
+
+<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chiragnahata&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+----
