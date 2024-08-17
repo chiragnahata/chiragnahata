@@ -169,13 +169,14 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chiragnahata&show_icons=true&count_private=true&hide_border=false" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragnahata&show_icons=true&hide_border=false" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragnahata&theme=github" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiragnahata&theme=github" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragnahata&theme=github" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiragnahata&theme=github&utcOffset=8" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragnahata&theme=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=chiragnahata&show_icons=true&count_private=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=react" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragnahata&show_icons=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragnahata&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiragnahata&theme=react" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragnahata&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiragnahata&theme=react&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragnahata&theme=react" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragnahata&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br />
