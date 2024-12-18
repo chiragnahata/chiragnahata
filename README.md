@@ -185,4 +185,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chiragnahata&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+## My Badges
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e17b1c3e-e79e-4afe-9da6-35b59d188f50/deploy-status)](https://app.netlify.com/sites/awspartner-chiragnahata/deploys)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
